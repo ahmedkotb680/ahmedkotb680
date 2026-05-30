@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ahmedkotb680/ahmedkotb680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35B49F&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Ahmed+Kotb;CS+Student+%7C+Future+Full-Stack+Developer)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+**Computer Science student** passionate about **Full-Stack Development**, **Software Engineering**, and building real-world software projects.
+
+Currently learning and exploring:
+
+- **C++**
+- **Python**
+- **Java**
+- **Frontend Development**
+- **Backend Development**
+- **Databases**
+
+Interested in growing as a **Full-Stack Developer** and strengthening my understanding of core CS fundamentals.
+
+---
+
+## 🚀 Current Focus
+
+- Building practical projects  
+- Learning modern full-stack technologies  
+- Improving software development skills  
+- Exploring databases and system design  
+
+---
+
+## 🛠️ Tech Stack
+
+`C++` `Python` `Java` `HTML` `CSS` `JavaScript` `Git` `GitHub`
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Gmail:kotba3788@gmail.com  
+- 💼 LinkedIn:ahmed-kotb-b8ab3136b

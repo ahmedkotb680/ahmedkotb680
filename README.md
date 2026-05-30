@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-**Computer Science student** passionate about **Full-Stack Development**, **Software Engineering**, and building real-world software projects.
+**CS** studentat [**`FCI-SCU`**](https://suez.edu.eg/ar/) passionate about **Full-Stack Development**, **Software Engineering**, and building real-world software projects.
 
 Currently learning and exploring:
 

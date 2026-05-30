@@ -15,7 +15,7 @@ Currently learning and exploring:
 - **Java**
 - **Frontend Development**
 - **Backend Development**
-- **Databases**
+
 
 Interested in growing as a **Full-Stack Developer** and strengthening my understanding of core CS fundamentals.
 
@@ -39,4 +39,6 @@ Interested in growing as a **Full-Stack Developer** and strengthening my underst
 ## 🌐 Connect With Me
 
 - 📧 Gmail:kotba3788@gmail.com  
-- 💼 LinkedIn:ahmed-kotb-b8ab3136b
+- 💼 LinkedIn:www.linkedin.com/in/
+ahmed-kotb-b8ab3136b
+
